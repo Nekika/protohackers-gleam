@@ -1,0 +1,3 @@
+[submodule "core/deps/toolbox"]
+	path = core/deps/toolbox
+	url = git@github.com:Nekika/gleam-toolbox.git
