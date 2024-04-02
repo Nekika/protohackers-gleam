@@ -15,7 +15,7 @@ version = "1.0.0"
 [dependencies]
 gleam_stdlib = "~> 0.34 or ~> 1.0"
 gleam_erlang = "~> 0.25"
-glisten = "~> 1.0"
+glisten = "~> 2.0"
 gleam_otp = "~> 0.10"
 toolbox = { path = "deps/toolbox" }
 
